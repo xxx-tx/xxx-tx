@@ -10,7 +10,7 @@
 `Node.js` `Express.js` `Django` `Flask` `Spring Boot`  
 
 **Cloud & DevOps**  
-`AWS (Certified)` `GCP` `Docker` `Kubernetes` `Jenkins` `GitHub Actions`  
+`AWS` `GCP` `Docker` `Kubernetes` `Jenkins` `GitHub Actions`  
 
 **Databases**  
 `PostgreSQL` `MongoDB` `MySQL`  
@@ -22,13 +22,6 @@
 `REST APIs` `GraphQL` `Microservices` `Git` `Linux`  
 `Agile Scrum` `Remote Collaboration`  
 
----
-
-## 🌐 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vincent%20Hermansson-blue?logo=linkedin)](https://linkedin.com/in/vincenth26)  
-
-💬 Always open to collaborating on **open-source projects**, **tech discussions**, or **challenging freelance work**.  
 
 ---
 
