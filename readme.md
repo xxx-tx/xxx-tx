@@ -22,8 +22,6 @@
 `REST APIs` `GraphQL` `Microservices` `Git` `Linux`  
 `Agile Scrum` `Remote Collaboration`  
 
-
 ---
-
 > _"Clean code, clear communication, and continuous improvement — that’s my development philosophy."_  
 
