@@ -1,8 +1,7 @@
 # 👨‍💻 Nicholas Burton
 
-**Senior Full Stack Developer | US Citizen**  
+**Senior Full Stack Developer | US**  
 📍 Based in USA | ✉️ [nicolas.burtn@outlook.com](mailto:nicolas.burtn@outlook.com)  
-
 ---
 
 ## 🚀 About Me
