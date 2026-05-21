@@ -9,8 +9,7 @@ Building useful software, learning continuously, and improving one project at a 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=xxx-tx&style=for-the-badge)
 
-[![GitHub](https://img.shields.io/badge/GitHub-tx--0206-181717?style=for-the-badge&logo=github)](https://github.com/xxx-tx)
-[![Gmail](https://img.shields.io/badge/Gmail-danianovind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danianovind@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-xxx--tx-181717?style=for-the-badge&logo=github)](https://github.com/xxx-tx)
 
 </div>
 
@@ -49,7 +48,6 @@ I care about clean structure, simple solutions, and writing code that is easy to
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-tx--0206-black?style=for-the-badge&logo=github)](https://github.com/xxx-tx)
-[![Gmail](https://img.shields.io/badge/Gmail-danianovind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danianovind@gmail.com)
 
 <br />
 
