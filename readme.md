@@ -7,9 +7,9 @@
 ### Software Engineer  
 Building useful software, learning continuously, and improving one project at a time.
 
-![Profile Views](https://komarev.com/ghpvc/?username=tx-0206&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=xxx-tx&style=for-the-badge)
 
-[![GitHub](https://img.shields.io/badge/GitHub-tx--0206-181717?style=for-the-badge&logo=github)](https://github.com/tx-0206)
+[![GitHub](https://img.shields.io/badge/GitHub-tx--0206-181717?style=for-the-badge&logo=github)](https://github.com/xxx-tx)
 [![Gmail](https://img.shields.io/badge/Gmail-danianovind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danianovind@gmail.com)
 
 </div>
@@ -38,7 +38,7 @@ I care about clean structure, simple solutions, and writing code that is easy to
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tx-0206&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxx-tx&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -48,7 +48,7 @@ I care about clean structure, simple solutions, and writing code that is easy to
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-tx--0206-black?style=for-the-badge&logo=github)](https://github.com/tx-0206)
+[![GitHub](https://img.shields.io/badge/GitHub-tx--0206-black?style=for-the-badge&logo=github)](https://github.com/xxx-tx)
 [![Gmail](https://img.shields.io/badge/Gmail-danianovind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danianovind@gmail.com)
 
 <br />
