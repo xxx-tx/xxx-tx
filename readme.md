@@ -1,55 +1,60 @@
-# 👨‍💻 Nicholas Burton
+<div align="center">
 
-**Senior Full Stack Developer**  
-📍 Based in USA | ✉️ [nicolas.burtn@outlook.com](mailto:nicolas.burtn@outlook.com)  
+# Hi, I'm TX 👋
 
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
 
-## 🚀 About Me
+### Software Engineer  
+Building useful software, learning continuously, and improving one project at a time.
 
-Over the past 12+ years, I have built a career driven by my passion for creating robust, scalable, and secure software solutions. From my start as a curious junior developer, I have grown into a senior full stack engineer who enjoys crafting end-to-end applications that align technical excellence with business goals.
+![Profile Views](https://komarev.com/ghpvc/?username=tx-0206&style=for-the-badge)
 
-I thrive in agile, collaborative environments where I can lead teams, mentor peers, and continuously learn new technologies. Building cloud-native, microservices architectures, and modern responsive frontends excites me most about software development.
+[![GitHub](https://img.shields.io/badge/GitHub-tx--0206-181717?style=for-the-badge&logo=github)](https://github.com/tx-0206)
+[![Gmail](https://img.shields.io/badge/Gmail-danianovind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danianovind@gmail.com)
 
----
-
-## 🧰 Technical Toolbox & Skills
-
-### Frontend Development  
-React • Angular • TypeScript • JavaScript (ES6+) • HTML5 • CSS3 (Sass, Tailwind, Material UI)
-
-### Backend & APIs  
-Java (Spring Boot) • Node.js (Express) • Python (Django, Flask) • .NET (C#) • RESTful APIs • GraphQL • Microservices
-
-### Databases & Data Management  
-PostgreSQL • MySQL • MongoDB • SQL Server • Oracle • Firebase  
-Advanced schema design, query optimization, and data migration
-
-### Cloud & DevOps  
-AWS • Google Cloud Platform (GCP) • Microsoft Azure • Docker • Kubernetes • Jenkins • GitHub Actions • GitLab CI/CD
-
-### Testing & Quality Assurance  
-JUnit • Mockito • Selenium • Postman • Cypress • Automated testing frameworks
-
-### Collaboration & Productivity Tools  
-Git, GitHub & GitLab, JIRA, Confluence, WinShuttle, SharePoint, Advanced Excel
+</div>
 
 ---
 
-## 💼 Professional Highlights
+## About Me
 
-- Led migration of legacy monolithic systems into microservices deployed on AWS and GCP, improving scalability and reliability for millions of users.
-- Designed and developed secure RESTful APIs powering complex enterprise workflows with seamless third-party integrations.
-- Crafted responsive, accessible frontend applications delivering excellent user experiences across devices and browsers.
-- Spearheaded CI/CD pipeline implementation using Jenkins, GitHub Actions, and Docker, accelerating delivery while ensuring quality.
-- Mentored junior and mid-level developers in best engineering practices, design patterns, agile methodologies, and code reviews.
+I'm a **Software Engineer** who enjoys turning ideas into practical, reliable software.
+
+I care about clean structure, simple solutions, and writing code that is easy to understand and improve.
 
 ---
 
-## 🤝 Let’s Connect
+## What I Focus On
 
-I am always open to collaborating on innovative projects or sharing insights about full stack development and cloud architecture. Feel free to reach out!
-
-- 📧 [Email](mailto:nicolas.burtn@outlook.com)
+- Building useful software
+- Solving real-world problems
+- Writing clean and maintainable code
+- Improving systems step by step
+- Learning through projects
 
 ---
+
+## GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=tx-0206&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+## Connect With Me
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-tx--0206-black?style=for-the-badge&logo=github)](https://github.com/tx-0206)
+[![Gmail](https://img.shields.io/badge/Gmail-danianovind%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danianovind@gmail.com)
+
+<br />
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="260" />
+
+### Thanks for visiting.
+
+</div>
