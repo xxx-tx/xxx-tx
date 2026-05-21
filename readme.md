@@ -1,19 +1,19 @@
-<div align="center">
-## What I Focus On
+# xxx-tx
 
-- Building useful software
-- Solving real-world problems
-- Writing clean and maintainable code
-- Improving systems step by step
-- Learning through projects
+Building, learning, and improving every day.
 
----
+## About Me
+
+I enjoy solving problems, creating useful things, and working with ambitious people.
 
 ## GitHub Activity
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=xxx-tx&label=Profile%20Views)
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=xxx-tx&theme=tokyo-night&hide_border=true" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xxx-tx&show_icons=true&hide_border=true)
 
-</div>
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=xxx-tx&hide_border=true)
+
+---
+
+> Small consistent progress creates big results.
