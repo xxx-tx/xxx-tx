@@ -1,6 +1,4 @@
 <div align="center">
----
-
 ## What I Focus On
 
 - Building useful software
